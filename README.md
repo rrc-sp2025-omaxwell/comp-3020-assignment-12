@@ -1,1 +1,3 @@
-This is the README file created in the dev branch for assignment 12
+# Assignment 12
+
+This is the readme file created in the dev branch for assignment 12
